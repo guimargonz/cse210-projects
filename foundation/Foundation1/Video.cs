@@ -77,9 +77,5 @@ public class Video
         Console.WriteLine("-----------------------------------"); // Separator
     }
 
-    // Optional: Getter for the comments list if needed by external logic
-    // public List<Comment> GetAllComments()
-    // {
-    //     return _comments;
-    // }
+
 }

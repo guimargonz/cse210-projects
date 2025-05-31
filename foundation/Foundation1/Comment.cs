@@ -25,9 +25,5 @@ public class Comment
         return _commentText;
     }
 
-    // Optional: A method to display itself, though Video class will handle it
-    // public void Display()
-    // {
-    //     Console.WriteLine($"    - {_commenterName}: \"{_commentText}\"");
-    // }
+
 }
